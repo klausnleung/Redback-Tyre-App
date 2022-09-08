@@ -1,0 +1,1 @@
+TIRF Data File: Project 2356; Run 014; Date 01-18-2022; Time 19:24; Tire_Name=Hoosier 16.0X6.0-10, R20, C2000; Rim_Width=7.0; ISO False; ID XLFNBEw

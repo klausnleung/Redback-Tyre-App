@@ -1,0 +1,1 @@
+TIRF Data File: Project 2356; Run 043; Date 01-20-2022; Time 12:04; Tire_Name=MRF 18.0X6.0-10, ZTD1; Rim_Width=7.0; ISO False; ID Dvhzkcm

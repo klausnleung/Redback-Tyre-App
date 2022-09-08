@@ -1,0 +1,1 @@
+TIRF Data File: Project 2356; Run 035; Date 01-19-2022; Time 23:17; Tire_Name=Goodyear 18.0X6.5-10, Eagle Racing Special; Rim_Width=6.0; ISO False; ID vWKLvkU

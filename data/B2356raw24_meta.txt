@@ -1,0 +1,1 @@
+TIRF Data File: Project 2356; Run 024; Date 01-19-2022; Time 15:05; Tire_Name=Goodyear 20.0X7.0-13, 2704; Rim_Width=7.0; ISO False; ID ucIuvA8
